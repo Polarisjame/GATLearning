@@ -2,6 +2,11 @@
 
 A basic GAT model using residual connection as [**DeepGCNs**](https://arxiv.org/abs/1904.03751) described, trained to classify a paper node into 7 classes.
 
+---
+# Uploads
+
+Upload GAT_selfattn.py using basic GAT model with residual connection and MultiHeadSelfAttention
+
 ## Requirements
 
 My code works with the following environment.
